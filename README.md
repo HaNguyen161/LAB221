@@ -1,3 +1,2 @@
 # LAB221
-For FPT University students who want to pass LAB221 - HaiLT.
-Password: Name of the first prime minister of German Realm. All starting letters are in capital.
+Der 5. Satz von dem Lied der Deutschen und das Jahr, in dem das Lied der Deutschen komponiert wurde.

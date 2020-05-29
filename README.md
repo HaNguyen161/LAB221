@@ -1,2 +1,2 @@
 # LAB221
-Der 5. Satz der ersten Strophe des Liedes der Deutschen und das Jahr, in dem das Lied der Deutschen komponiert wurde.
+Ein deutsches patriotisches Lied, welches im Deutschen Kaiserreich ab 1871 neben Heil dir im Siegerkranz die Funktion einer inoffiziellen Nationalhymne hatte.
